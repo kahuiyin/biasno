@@ -1,0 +1,24 @@
+{
+  "current_stage": "pre",
+  "stage_completed": {
+    "pre": false,
+    "mid": false,
+    "post": false
+  },
+  "resumes_uploaded": true,
+  "target_hires": 10,
+  "algorithm_literacy": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "pressure_condition": "低压力",
+  "dependency_completed": false
+}
